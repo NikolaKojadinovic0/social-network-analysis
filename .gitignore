@@ -1,0 +1,18 @@
+# Lokalna podešavanja editora
+.idea/
+.vscode/
+
+# Virtuelna okruženja
+.venv/
+venv/
+
+# Python privremeni fajlovi
+__pycache__/
+*.py[cod]
+
+# Lokalni razvojni skript (nije deo javnog repozitorijuma)
+/development_demo.py
+
+# Operativni sistem
+.DS_Store
+Thumbs.db
